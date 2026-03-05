@@ -1,5 +1,5 @@
 ---
-name: landingai-ade-sdk
+name: sdk
 description: "Python SDK reference for LandingAI's Agentic Document Extraction (ADE). Includes Pydantic schema extraction, async processing, error handling, save_to, visual grounding, table cell lookup, and complete API context."
 metadata:
   languages: "python"

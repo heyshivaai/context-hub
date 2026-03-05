@@ -1,5 +1,5 @@
 ---
-name: landingai-ade-api
+name: api
 description: "REST API specification for LandingAI's Agentic Document Extraction (ADE). Covers all endpoints (Parse, Extract, Split, Parse Jobs), request parameters, response structures, data types, error codes, model versions, and curl examples."
 metadata:
   languages: "http"

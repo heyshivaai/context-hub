@@ -1,5 +1,5 @@
 ---
-name: landing-ade
+name: skill
 description: Use when the user mentions document parsing, PDF extraction, OCR, markdown extraction, structured data extraction from documents, document classification/splitting, LandingAI, ADE API, or wants to pull data out of a PDF/image/spreadsheet
 metadata:
   updated-on: "2026-03-04"
